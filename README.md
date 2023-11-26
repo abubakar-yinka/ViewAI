@@ -13,8 +13,8 @@ To run the application locally, you need to have Node.js and npm installed on yo
 
 2. Navigate to the project directory using `cd view-ai`.
 
-3. Install the dependencies using `npm install`.
+3. Install the dependencies using `npm install` or `yarn install`.
 
-4. Start the development server using `npm start`.
+4. Start the development server using `npm start` or `yarn start`.
 
 5. Open your browser and go to http://localhost:3000 to see the application.
