@@ -9,7 +9,7 @@ https://randomuser.me/api/?results=20
 
 To run the application locally, you need to have Node.js and npm installed on your machine. Then, follow these steps:
 
-1. Clone this repository to your local machine using git clone https://github.com/abubakar-yinka/view-ai.git.
+1. Clone this repository to your local machine using `git clone https://github.com/abubakar-yinka/view-ai.git`.
 
 2. Navigate to the project directory using `cd view-ai`.
 
